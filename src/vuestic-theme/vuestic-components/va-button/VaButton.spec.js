@@ -89,7 +89,7 @@ describe('VaButton', () => {
   it('a button with defined href', () => {
     const wrapper = shallowMount(VaButton, {
       propsData: {
-        href: 'http://epic-spinners.epicmax.co/'
+        href: 'http://epic-spinners.ultrawp.com/'
       }
     })
     expect(wrapper.is('a')).toBe(true)
@@ -107,7 +107,7 @@ describe('VaButton', () => {
   it('a button with defined href and target', () => {
     const wrapper = shallowMount(VaButton, {
       propsData: {
-        href: 'http://epic-spinners.epicmax.co/',
+        href: 'http://epic-spinners.ultrawp.com/',
         target: '_blank'
       }
     })

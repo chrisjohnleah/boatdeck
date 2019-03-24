@@ -55,7 +55,7 @@ export default {
         duration: Infinity,
         action: {
           text: 'Hire us',
-          href: 'http://epicmax.co/#/contact',
+          href: 'http://ultrawp.com/#/contact',
           class: 'vuestic-toasted-link',
         },
       })

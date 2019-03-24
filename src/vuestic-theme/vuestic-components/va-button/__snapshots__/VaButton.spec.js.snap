@@ -1,7 +1,7 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`VaButton a button with defined href and target 1`] = `
-<a href="http://epic-spinners.epicmax.co/" target="_blank" tabindex="0" class="va-button va-button--success va-button--default va-button--without-title va-button--normal">
+<a href="http://epic-spinners.ultrawp.com/" target="_blank" tabindex="0" class="va-button va-button--success va-button--default va-button--without-title va-button--normal">
   <div class="va-button__content">
     <!---->
     <!---->

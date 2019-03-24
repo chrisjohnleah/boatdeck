@@ -16,7 +16,7 @@
       <router-view/>
     </main>
     <span slot="footer">
-      ©2019. Made by&nbsp;<a href="https://epicmax.co" target="_blank"> Epicmax</a>
+      <a href="https://ultrawp.com.com" target="_blank">UltraWP</a> © 2019
     </span>
   </vuestic-layout>
 </template>

@@ -1,8 +1,7 @@
 <template>
   <div class="made-by-component text--center pb-3">
     <span>
-        ©2019. Made by
-        <a href="https://epicmax.co">Epicmax</a>
+         <a href="https://ultrawp.com.com">UltraWP</a> © 2019
     </span>
   </div>
 </template>

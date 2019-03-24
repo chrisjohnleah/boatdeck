@@ -5,7 +5,7 @@
       <va-icon-vuestic/>
     </span>
     <span slot="center">
-      {{$t('navbar.messageUs')}}&nbsp;<a href="mailto:hello@epicmax.co">hello@epicmax.co</a>
+      {{$t('navbar.messageUs')}}
     </span>
 
     <message-dropdown class="nav-item"/>

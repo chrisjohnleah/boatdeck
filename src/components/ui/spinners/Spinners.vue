@@ -65,7 +65,7 @@
         <div class="va-row justify--center align-center">
           <div class="text-center">
             {{'spinners.poweredBy' | translate}}
-            <a :href="'http://epic-spinners.epicmax.co/'" target="_blank">Epic
+            <a :href="'http://epic-spinners.ultrawp.com/'" target="_blank">Epic
               Spinners</a>
           </div>
         </div>

@@ -36,7 +36,7 @@
             <div class="flex">
               <va-button> {{ $t('buttons.button') }} </va-button>
               <va-button
-                href="http://epic-spinners.epicmax.co/"
+                href="http://epic-spinners.ultrawp.com/"
               >
                 {{ $t('buttons.a-link') }}
               </va-button>

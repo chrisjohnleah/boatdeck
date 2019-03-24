@@ -13,7 +13,7 @@
           <span class="vuestic-page-not-found-large-text__text-small mt-4">
             If you feel that it's not right, please send us a message at &nbsp;
           </span>
-          <a class="mt-4" href="mailto:hello@epicmax.co">hello@epicmax.co</a>
+          <a class="mt-4" href="mailto:hello@ultrawp.com">hello@ultrawp.com</a>
         </div>
       </div>
       <div class="vuestic-page-not-found-large-text__wallpaper text--center py-3 overflow--hidden">

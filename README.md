@@ -1,17 +1,17 @@
 # Vuestic Admin Dashboard
 
-Responsive admin dashboard template built with [Vue.js](https://vuejs.org) and [Bootstrap 4](https://v4-alpha.getbootstrap.com). Developed by [Epicmax](https://epicmax.co). Designed by [Vasili Savitski](https://xxsavitski.myportfolio.com/)
+Responsive admin dashboard template built with [Vue.js](https://vuejs.org) and [Bootstrap 4](https://v4-alpha.getbootstrap.com). Developed by [Epicmax](https://ultrawp.com). Designed by [Vasili Savitski](https://xxsavitski.myportfolio.com/)
 
-Subscribe to our [newsletter](https://epicmax.co/newsletter) to get Vuestic updates, our team's stories and Vue.js materials hand-picked by Epicmax.
+Subscribe to our [newsletter](https://ultrawp.com/newsletter) to get Vuestic updates, our team's stories and Vue.js materials hand-picked by Epicmax.
 
 <p align="center">
-  <a href="https://vuestic.epicmax.co" target="_blank">
+  <a href="https://vuestic.ultrawp.com" target="_blank">
     <img src="https://i.imgur.com/pMuJVVc.png" align="center" width="888px"/>
   </a>
 </p>
 
 ## Demo
-Check it out [live](https://vuestic.epicmax.co)!
+Check it out [live](https://vuestic.ultrawp.com)!
 
 ## Prerequisites:
 
@@ -92,10 +92,10 @@ Thanks for all your wonderful PRs, issues and ideas!
 - Create pull requests, submit bugs, suggest new features or documentation updates :wrench:
 - Follow us on [Twitter](https://twitter.com/epicmaxco) :feet:
 - Like our page on [Facebook](https://www.facebook.com/epicmaxco) :thumbsup:
-- Subscribe to our [newsletter](https://epicmax.co/newsletter) :postbox:
+- Subscribe to our [newsletter](https://ultrawp.com/newsletter) :postbox:
 
 ## Can I hire you guys?
-Yes!  Visit [our homepage](https://epicmax.co/) or simply leave us a message to [hello@epicmax.co](mailto:hello@epicmax.co). We will be happy to work with you!
+Yes!  Visit [our homepage](https://ultrawp.com/) or simply leave us a message to [hello@ultrawp.com](mailto:hello@ultrawp.com). We will be happy to work with you!
 
 ## License
 [MIT](https://github.com/epicmaxco/vuestic-admin/blob/master/LICENSE) license.
